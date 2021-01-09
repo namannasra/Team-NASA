@@ -1,0 +1,76 @@
+.a1{
+    color: hotpink;
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 300%;
+    text-shadow: 3px 3px 5px lightcoral;
+}
+.a2{
+    font-size: 175%;
+    color: lightseagreen;
+    
+    font-style: normal;
+}
+
+.a3{
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 200%;
+    color: hotpink;
+    text-shadow: 1px 1px 1px lightcoral;
+}
+.a4{
+    font-style: italic;
+    font-size: 200%;
+    color: lightseagreen;
+}
+
+.a10{
+    font-size: 200%;
+    text-shadow: 3px 3px 3px lightcoral;
+}
+
+.a11{
+    font-size: 150%;
+    font-weight: 700;
+}
+
+.a5{
+    font-size: 175%;
+    color: hotpink;
+    text-underline-position: ; 
+}
+
+.a6{
+     font-size: 130%;
+     color: lightseagreen;
+     font-style: italic;
+}
+
+.a7{
+    font-size:150%;
+    color: hotpink;
+    font-style: italic;
+}
+.a99{
+    font-size: 120%;
+    color: hotpink; 
+    text
+     font-style: normal;
+}
+
+a11:hover{
+    color: goldenrod;
+    background-color: violet;
+}
+.a69{
+    padding: 10px;
+    border: 7px violet;
+}
+
+a90:hover{
+    color: goldenrod;
+    background-color: violet;
+}

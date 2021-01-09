@@ -1,0 +1,30 @@
+.a101{
+    font-size: 200%;
+    text-shadow: 3px 3px 3px lightcoral;
+}
+.a102{
+    font-size: 150%;
+    font-weight: 700;
+}
+.a103{
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 250%;
+    color: hotpink;
+    text-shadow: 1px 1px 1px lightcoral;
+}
+.a104{
+    font-size: 175%;
+    color:  rgb(101, 20, 207);
+    
+    font-style: normal;
+}
+.a105{
+    font-size: 145%;
+    color: hotpink;
+  }
+.a106{
+    font-size: 110%;
+    color:  lightseagreen;
+}

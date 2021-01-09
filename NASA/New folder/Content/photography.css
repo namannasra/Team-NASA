@@ -1,0 +1,35 @@
+.a41{
+    font-size: 200%;
+    text-shadow: 3px 3px 3px lightcoral;
+}
+.a42{
+    font-size: 150%;
+    font-weight: 700;
+
+}
+
+.a43{
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 250%;
+    color: hotpink;
+    text-shadow: 1px 1px 1px lightcoral;
+}
+
+.a44{
+    font-size: 175%;
+    color:  rgb(101, 20, 207);
+    
+    font-style: normal;
+}
+
+.a45{
+    font-size: 145%;
+  color: hotpink;
+}
+
+.a46{
+    font-size: 110%;
+    color:  lightseagreen;
+}
